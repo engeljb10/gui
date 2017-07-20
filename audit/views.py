@@ -6,3 +6,4 @@ def post_list(request):
 
 def people(request):
     return render(request, 'audit/index.html', {'people': Person.objects.all()})
+#FSFSFSF
