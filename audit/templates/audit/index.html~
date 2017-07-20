@@ -1,0 +1,17 @@
+<html>
+{% load render_table from django_tables2 %}
+{% load static %}
+
+<head>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+<link href="//fonts.googleapis.com/css?family=Lobstersubset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../../static/css/style.css">
+<title>Network Audit</title>
+</head>
+<body>
+<h1>Network Audit</h1>
+<p>Hello Chitra, the GUI is being created ...</p>
+<img src="image.jpg" alt="Coming soon">
+</body>
+</html>

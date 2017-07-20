@@ -1,0 +1,17 @@
+h1 {
+    font-family:'Lobster', bold;
+    color: orange;
+    padding: 30px;
+    font-size: 300%;
+    border: 3px solid powderblue;
+}
+
+
+p {
+    font-family: 'Courier', bold;
+    color: black;
+    /*background-color: powderblue;*/
+    padding: 30px;
+    font-size: 140%;
+}
+
